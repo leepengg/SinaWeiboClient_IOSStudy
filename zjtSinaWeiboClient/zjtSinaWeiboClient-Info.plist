@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ZJT微博</string>
+	<string>微博客户端</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFiles</key>
@@ -17,7 +17,7 @@
 		<string></string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>jtone.z.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.leepengg.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

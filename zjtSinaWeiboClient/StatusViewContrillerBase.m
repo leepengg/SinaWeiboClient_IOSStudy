@@ -257,7 +257,7 @@
 {
     UIFont * font=[UIFont  systemFontOfSize:14];
     CGSize size=[contentText sizeWithFont:font constrainedToSize:CGSizeMake(with - kTextViewPadding, 300000.0f) lineBreakMode:kLineBreakMode];
-    CGFloat height = size.height + 44;
+    CGFloat height = size.height + 60;
     return height;
 }
 
